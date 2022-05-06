@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": "lequipe",
+        "name": "L'equipe"
+      },
+      "author": "L'EQUIPE",
+      "title": "Quiz : avez-vous bien suivi le week-end européen ?",
+      "description": "Le Real Madrid champion d'Espagne, le triplé d'Erling Haaland, la course au titre haletante en Angleterre et en Italie... Testez vos connaissances sur ce riche week-end de football.",
+      "url": "https://www.lequipe.fr/Football/Actualites/Quiz-avez-vous-bien-suivi-le-week-end-europeen/1330876",
+      "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/les-joueurs-du-real-celebrent-leur-titre-dans-les-rues-de-madrid-samedi-irina-r-hipolito-presse-spor/1500000001637245/0:0,1998:1332-640-427-75/25809.jpg",
+      "publishedAt": "2022-05-02T06:15:00+00:00",
+      "content": "08:30\r\nL'équipe type de la 35e journée\r\n08:15\r\nAvez-vous bien suivi le week-end européen ?\r\n06:23\r\nGignac meilleur buteur du tournoi de clôture\r\n00:24\r\nRécit d'une soirée qui va compter dans la cours… [+724 chars]"
+    },
+    {
+      "source": {
+        "id": "talksport",
+        "name": "TalkSport"
+      },
+      "author": "Jackson Cole",
+      "title": "Richarlison facing Football Association investigation after picking up smoke grenade thrown onto pitch and...",
+      "description": "",
+      "url": "https://talksport.com/football/1099114/richarlison-everton-throw-lit-smoke-grenade-football-association-investigation/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2022/05/TALKSPORT-LANDSCAPE-rich-flair.jpg?strip=all&quality=100&w=750&h=500&crop=1",
+      "publishedAt": "2022-05-01T19:23:00Z",
+      "content": "Everton forward Richarlison is facing an investigation from the Football Association for throwing a lit smoke grenade back into the Toffees’ fans during their win over Chelsea.\r\nThe Brazilian pounced… [+3441 chars]"
+    },
+    {
+      "source": {
+        "id": "four-four-two",
+        "name": "FourFourTwo"
+      },
+      "author": "PA Staff",
+      "title": "FA to investigate after Richarlison hurls smoke grenade during goal celebration",
+      "description": "Richarlison faces a Football Association investigation for throwing a lit smoke grenade after scoring Everton’s winner against Chelsea, the PA news agency understands.",
+      "url": "https://www.fourfourtwo.com/news/fa-to-investigate-after-richarlison-hurls-smoke-grenade-during-goal-celebration-1651420601000",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JwVR8XpcgdyhudcSYM7Z8B-1200-80.jpg",
+      "publishedAt": "2022-05-01T19:09:52Z",
+      "content": "Richarlison faces a Football Association investigation for throwing a lit smoke grenade after scoring Everton’s winner against Chelsea, the PA news agency understands.\r\nThe Brazilian struck a minute … [+1158 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
